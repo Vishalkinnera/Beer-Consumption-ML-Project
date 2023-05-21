@@ -2,7 +2,7 @@
 
 ## Workflow of the Project
 1) Loading the dataset 
-2) Performing Exploaratory Data Analysis
+2) Performing Exploratory Data Analysis
 3) Rectify the data wherever necessary
 4) Create new features using the 'Data' feature and the making 'Data' column as index
 5) Handling null and duplicate values
