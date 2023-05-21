@@ -1,6 +1,6 @@
 # Beer-Consumption-ML-Project
 
-## Step by step explanation of the Project
+## Workflow of the Project
 1) Loading the dataset 
 2) Performing Exploaratory Data Analysis
 3) Rectify the data wherever necessary
